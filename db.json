@@ -6,6 +6,60 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "igor@mail.com",
+      "password": "$2a$10$xJVpHDo4X9jCviEW505/tukHfJpzQLV.QFziHdBkyRhzU4DquDw8a",
+      "name": "Igor",
+      "age": 35,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "type": "Cachorro",
+      "name": "Agnes",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "Galinha",
+      "name": "Carijó",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "type": "Gato",
+      "name": "Derua",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "type": "Gato",
+      "name": "Derua",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "type": "Pássaro",
+      "name": "Pica Pau",
+      "userId": 2,
+      "id": 5
+    }
+  ],
+  "photo": [
+    {
+      "url": "<arquivo de imagem>"
+    }
+  ],
+  "hobbies": [
+    {
+      "description": "descricao dos hobbies"
+    }
+  ],
+  "messages": [
+    {
+      "text": "mensagem de lembrete"
     }
   ]
 }

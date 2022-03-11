@@ -1,3 +1,7 @@
 {
-  "users": 600
+  "users": 600,
+  "animals": 644,
+  "photo": 644,
+  "hobbies": 664,
+  "messages": 640
 }
